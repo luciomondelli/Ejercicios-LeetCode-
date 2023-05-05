@@ -1,3 +1,4 @@
+# Two sum
 # Ingresa una lista de numeros y un objetivo, el programa debe encontrar la suma de numeros que logre ese objetivo
 # Esto anda perfecto lo unico q habria q sumar es una etapa de validaciones para q no ingrese pelotudeces q no sean numeros, pero anda cheto :)
 numeros = []
